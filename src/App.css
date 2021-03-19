@@ -12,7 +12,25 @@
     animation: App-logo-spin infinite 20s linear;
   }
 }
+/*  */
 
+.img-wrapper img
+{
+  width: 100px;
+}
+.main-container
+{
+  border: 1px solid red;
+  width: 500px;
+}
+.addtocart img {
+  width: 73px;
+    float: right;
+    /* top: 83%; */
+    margin-top: -13%;
+    margin-right: 2%;
+}
+/*  */
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
